@@ -1,0 +1,7 @@
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\bin\Debug\DesignStructure.exe.config
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\bin\Debug\DesignStructure.exe
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\bin\Debug\DesignStructure.pdb
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\obj\Debug\DesignStructure.csprojResolveAssemblyReference.cache
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\obj\Debug\DesignStructure.csproj.CoreCompileInputs.cache
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\obj\Debug\DesignStructure.exe
+c:\users\rgouthaman\source\repos\DesignStructure\DesignStructure\obj\Debug\DesignStructure.pdb
